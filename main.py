@@ -1,6 +1,7 @@
 from fastapi import FastAPI
+from fastapi.responses import StreamingResponse
 from backend.schemas import ChatRequest, SearchRequest
-from backend.rag_service import run_rag, run_retrieval, conversation_store
+from backend.rag_service import run_rag, run_rag_stream, run_retrieval, conversation_store
 
 app = FastAPI(title="Corporate AI Assistant API")
 
@@ -20,6 +21,23 @@ def chat(request: ChatRequest):
     )
 
 
+@app.post("/chat/stream")
+def chat_stream(request: ChatRequest):
+    """
+    Endpoint de streaming. Devuelve tokens a medida que el LLM los genera.
+    Formato: Server-Sent Events (SSE)
+    """
+    return StreamingResponse(
+        run_rag_stream(
+            request.question,
+            k=request.k,
+            document_filter=request.document_filter.value if request.document_filter else None,
+            session_id=request.session_id
+        ),
+        media_type="text/event-stream"
+    )
+
+
 @app.post("/search")
 def search(request: SearchRequest):
     result = run_retrieval(
@@ -34,7 +52,6 @@ def search(request: SearchRequest):
 
 @app.delete("/session/{session_id}")
 def clear_session(session_id: str):
-    """Elimina el historial de una sesión específica."""
     if session_id in conversation_store:
         del conversation_store[session_id]
         return {"status": "session cleared", "session_id": session_id}
