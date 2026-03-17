@@ -1,0 +1,26 @@
+# Environment variables - NUNCA subir
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+
+# Vector store (se regenera con ingestion)
+vector_store/
+
+# PDFs (pesados y pueden ser sensibles)
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

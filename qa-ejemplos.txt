@@ -1,0 +1,468 @@
+Escribí tu pregunta: What are NEC's main business segments?
+
+Resultados encontrados:
+
+Resultado 1
+Archivo: anual_nec2025.pdf
+Página: 29
+Contenido:
+Adopted
+Of the new or amendments to IFRS standards that have been issued before the approval date of the consolidated financial
+statements, the NEC Group has not yet adopted the following.
+The NEC Group is in the process of assessing the impact on the adoption of these new accounting standard and
+amendments.
+6.     Segment Information
+The NEC Group has two reportable segments: IT Services business and Social Infrastructure business, which are
+operating segments. Operating segments are defined as the components of the NEC Group for which separate financial
+information is available that is evaluated regularly by President and CEO of the Company, which is the NEC Group’s chief
+operating decision maker in deciding how to allocate resource and in assessing performance. The NEC Group’s vari
+
+--------------------------------------------------------------------------------
+
+Resultado 2
+Archivo: anual_nec2025.pdf
+Página: 39
+Contenido:
+Name of entity Country of
+incorporation
+Ownership of
+voting rights
+(%)
+Principal activities
+NEC Platforms, Ltd. Japan 100.0
+Development, manufacture, sale and
+maintenance of information and communications
+systems, equipment etc., and provision of
+systems integration services etc.
+NEC Fielding, Ltd. Japan 100.0 Installation and maintenance of computers and
+network systems
+NEC Solution Innovators, Ltd. Japan 100.0 Provision of systems integration services etc.,
+and development of software
+ABeam Consulting Ltd. Japan 100.0 Business consulting
+NEC Networks & System
+Integration Corporation Japan 100.0
+Design, construction and maintenance of
+information and communications systems, and
+sale of related equipment
+NEC Corporation of America U.S.A. 100.0
+Regional headquarters operations, sal
+
+--------------------------------------------------------------------------------
+
+Resultado 3
+Archivo: anual_nec2025.pdf
+Página: 2
+Contenido:
+Year Ended March 31, 2025 (Fiscal 2025)
+Compared With the Year Ended March 31, 2024 (Fiscal 2024)
+Management’s Discussion and Analysis
+This section contains forward-looking statements concerning the NEC Group’s analysis of financial condition,
+business results and cash flows. These statements are based on the judgment of the NEC Group as of March 31,
+2025. The preparation of financial statements requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amount of revenues and expenses during the reporting period.
+Accordingly, actual results could differ from those estimated.
+1.  Business Overview and Key Business Drivers
+
+--------------------------------------------------------------------------------
+
+Resultado 4
+Archivo: anual_nec2025.pdf
+Página: 3
+Contenido:
+Note: NEC Solution Innovators, Ltd., NEC Platforms, Ltd., NEC Communication Systems, Ltd., NEC
+Nexsolutions, Ltd. and NEC Business Intelligence, Ltd.
+The NEC Group recorded consolidated revenue of 3,423.4 billion JPY for the fiscal year ended March 31, 2025, a
+decrease of 53.8 billion JPY (-1.5%) year-on-year. This decrease was mainly due to the deconsolidation of Japan
+Aviation Electronics Industry, Limited., despite an increase in the revenues of the IT Services Business and the
+Social Infrastructure Business.
+Regarding profitability, operating profit increased by 68.5 billion JPY year-on-year, to an operating profit of 256.5
+billion JPY, due mainly to an increase in revenue in IT Services Business and Social Infrastructure Busines
+
+--------------------------------------------------------------------------------
+
+(venv) PS C:\Users\w4yai\Desktop\ai-corporate-assistant> python backend/retrieval.py
+Escribí tu pregunta: What was NEC's revenue in fiscal 2025?
+
+Resultados encontrados:
+
+Resultado 1
+Archivo: anual_nec2025.pdf
+Página: 3
+Contenido:
+Note: NEC Solution Innovators, Ltd., NEC Platforms, Ltd., NEC Communication Systems, Ltd., NEC
+Nexsolutions, Ltd. and NEC Business Intelligence, Ltd.
+Condensed Consolidated Statements of Profit or Loss
+The NEC Group recorded consolidated revenue of 3,423.4 billion JPY for the fiscal year ended March 31, 2025, a
+decrease of 53.8 billion JPY (-1.5%) year-on-year. This decrease was mainly due to the deconsolidation of Japan
+Aviation Electronics Industry, Limited., despite an increase in the revenues of the IT Services Business and the
+Social Infrastructure Business.
+Regarding profitability, operating profit increased by 68.5 billion JPY year-on-year, to an operating profit of 256.5
+billion JPY, due mainly to an increase in revenue in IT Services Business and Social Infrastructure Busines
+
+--------------------------------------------------------------------------------
+
+Resultado 2
+Archivo: anual_nec2025.pdf
+Página: 2
+Contenido:
+Year Ended March 31, 2025 (Fiscal 2025)
+Compared With the Year Ended March 31, 2024 (Fiscal 2024)
+Management’s Discussion and Analysis
+This section contains forward-looking statements concerning the NEC Group’s analysis of financial condition,
+business results and cash flows. These statements are based on the judgment of the NEC Group as of March 31,
+2025. The preparation of financial statements requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amount of revenues and expenses during the reporting period.
+Accordingly, actual results could differ from those estimated.
+1.  Business Overview and Key Business Drivers
+
+--------------------------------------------------------------------------------
+
+Resultado 3
+Archivo: anual_nec2025.pdf
+Página: 31
+Contenido:
+and 173,293 million JPY as of March 31, 2024 and 2025.
+Major customers
+The NEC Group does not have any external customers that comprise more than 10% of revenue in the consolidated
+statements of profit or loss.
+- 31 -
+
+--------------------------------------------------------------------------------
+
+Resultado 4
+Archivo: anual_nec2025.pdf
+Página: 7
+Contenido:
+As of March 31, 2024 2025
+Long-term fund procurement*1 75.0% 57.0%
+Use of capital market instruments*2 42.7% 35.9%
+Billions of Yen YoY Change
+2024 2025 2025/2024
+IT Services Business ¥11.6 ¥9.4 -18.7%
+Social Infrastructure Business 12.1 11.7 -3.6%
+Others 63.0 95.0 +50.8%
+committed short-term credit facilities of 238.0 billion JPY to ensure that funds may be borrowed from financial
+institutions at all times. For long-term financing, the NEC Group has a 300.0 billion JPY straight bond issuance
+program in Japan.
+The NEC Group’s basic policy regarding the structure of liabilities on the balance sheets is to maintain a balanced
+mix of fund procurement from debt and capital market instruments, while securing adequate long-term funds,
+from the standpoint of satisfyin
+
+--------------------------------------------------------------------------------
+
+(venv) PS C:\Users\w4yai\Desktop\ai-corporate-assistant> python backend/retrieval.py
+Escribí tu pregunta: What are the main principles of GDPR?
+
+Resultados encontrados:
+
+Resultado 1
+Archivo: regulaciones_compilance.pdf
+Página: 1
+Contenido:
+(4)  The processing of personal data should be designed to ser ve mankind. The r ight to the prote ction of personal
+data is not an absolute r ight ; it must be considered in relation to its function in society and be balanced ag ainst
+other fundamental r ights, in accordance with the pr inciple of propor tionality . This Regulation respects all
+fundamental r ights and obser ves the freedoms and pr inciples recognised in the Char ter as enshr ined in the
+T reaties, in par ticular the respect f or pr ivate and f amily life, home and communications, the protection of
+personal data, freedom of thought, conscience and religion, freedom of expression and inf or mation, freedom to
+conduct a business, the r ight to an eff ective remedy and to a fa ir tr ial, and cultural, religious and ling
+
+--------------------------------------------------------------------------------
+
+Resultado 2
+Archivo: regulaciones_compilance.pdf
+Página: 13
+Contenido:
+grounds f or processing or data protection pr inciples. The European Data Protect ion Board established by this
+Regulation (the ‘Board’) should be able to issue guidance in that conte xt.
+(73)  Restr ictions concer ning specifi c pr inciples and the r ights of inf or mation, access to and rectification or erasure of
+personal data, the r ight to data por tability , the r ight to object, decisions based on profiling, as well as the
+communication of a personal data breach to a data subject and cer tain related oblig ations of the controllers ma y
+be imposed by U nion or Member State law , as far as necessar y and propor tionate in a democratic society to
+safeg uard public secur ity , including the prot ection of human life especially in response to natural or manmade
+disaste rs, the pr
+
+--------------------------------------------------------------------------------
+
+Resultado 3
+Archivo: regulaciones_compilance.pdf
+Página: 0
+Contenido:
+their r ight to the prote ction of personal data. This Regulation is inte nded to contr ibute to the accompl ishment of
+an area of freedom, secur ity and justice and of an economic union, to economic and social progress, to the
+strengthening and the converg ence of the economies within the inte r nal mark et, and to the well-being of natural
+persons.
+(3)  Directive 95/46/EC of the European P arliament and of the Council (
+4
+) seeks to har monise the prot ection of
+fundamental r ights and freedoms of natural persons in respect of processing activities and to ensure the free f lo w
+of personal data between Member State s.
+4.5.2016 L 119/1 Official Jour nal of the European Union EN
+(
+1
+) OJ C 229, 31.7.2012, p. 90.
+(
+2
+) OJ C 391, 18.12.2012, p. 127.
+(
+3
+) P osition of the Europ
+
+--------------------------------------------------------------------------------
+
+Resultado 4
+Archivo: regulaciones_compilance.pdf
+Página: 0
+Contenido:
+1
+),
+Ha ving regar d to the opinion of the Committ ee of the Regions (
+2
+),
+A cting in accordance with the ordinar y legislative procedure (
+3
+),
+Whereas:
+Ar ticle 8(1) of the Char ter of Fundamental Rights of the European Union (the ‘Char te r ’) and Ar ticle 16(1) of the
+T reaty on the Functioning of the European U nion (TFEU) pro vide that ever y one has the r ight to the prot ection of
+personal data concer ning him or her .
+(2)  The pr inciples of, and r ules on the protection of natural persons with regard to the processing of their personal
+data should, whate ver their nationality or residence, respect their fundamental r ights and freedoms, in par ticular
+their r
+
+--------------------------------------------------------------------------------
+
+(venv) PS C:\Users\w4yai\Desktop\ai-corporate-assistant> python backend/retrieval.py
+Escribí tu pregunta: What is AI risk management?
+
+Resultados encontrados:
+
+Resultado 1
+Archivo: Documentacion_marcos normativosTecnicos2.pdf
+Página: 5
+Contenido:
+or exacerbate inequitable or undesirable outcomes for individuals and communities. With
+proper controls, AI systems can mitigate and manage inequitable outcomes.
+AI risk management is a key component of responsible development and use of AI sys-
+tems. Responsible AI practices can help align the decisions about AI system design, de-
+velopment, and uses with intended aim and values. Core concepts in responsible AI em-
+phasize human centricity, social responsibility, and sustainability. AI risk management can
+drive responsible uses and practices by prompting organizations and their internal teams
+who design, develop, and deploy AI to think more critically about context and potential
+or unexpected negative and positive impacts. Understanding and managing the risks of AI
+systems will help to en
+
+--------------------------------------------------------------------------------
+
+Resultado 2
+Archivo: documentacion_marcos normativosTecnicos1.pdf
+Página: 16
+Contenido:
+anticipate and effectively manage risks before they become ingrained.
+Suggested Actions
+• Establish policies that define the AI risk management roles and responsibilities for
+positions directly and indirectly related to AI systems, including, but not limited to
+• Boards of directors or advisory committees
+• Senior management
+• AI audit functions
+• Product management
+• Project management
+• AI design
+• AI development
+• Human-AI interaction
+• AI testing and evaluation
+• AI acquisition and procurement
+
+--------------------------------------------------------------------------------
+
+Resultado 3
+Archivo: documentacion_marcos normativosTecnicos1.pdf
+Página: 19
+Contenido:
+portfolio (e.g. predictive modeling, machine learning).
+Suggested Actions
+• Organizational management can:
+• Declare risk tolerances for developing or using AI systems.
+• Support AI risk management efforts, and play an active role in such efforts.
+• Integrate a risk and harm prevention mindset throughout the AI lifecycle as part of
+organizational culture
+• Support competent risk management executives.
+• Delegate the power, resources, and authorization to perform risk management to
+each appropriate level throughout the management chain.
+
+--------------------------------------------------------------------------------
+
+Resultado 4
+Archivo: Documentacion_marcos normativosTecnicos2.pdf
+Página: 36
+Contenido:
+from a previously unknown risk when it is identified.
+MANAGE 2.4: Mechanisms are in place and applied, and respon-
+sibilities are assigned and understood, to supersede, disengage, or
+deactivate AI systems that demonstrate performance or outcomes
+inconsistent with intended use.
+MANAGE 3: AI
+risks and benefits
+from third-party
+entities are
+managed.
+MANAGE 3.1: AI risks and benefits from third-party resources
+are regularly monitored, and risk controls are applied and
+MANAGE 3.2: Pre-trained models which are used for develop-
+ment are monitored as part of AI system regular monitoring and
+maintenance.
+Categories Subcategories
+Continued on next page
+Page 32
+
+--------------------------------------------------------------------------------
+
+(venv) PS C:\Users\w4yai\Desktop\ai-corporate-assistant> python backend/retrieval.py
+Escribí tu pregunta: How does NEC combine AI and digital transformation?
+
+Resultados encontrados:
+
+Resultado 1
+Archivo: anual_nec2025.pdf
+Página: 2
+Contenido:
+2024 the “NEC BluStellar” a value creation model that aims to lead customers into the future.  NEC BluStellar
+leverages our cutting-edge technologies, such as AI and cyber security, refined through years of knowledge and
+know-how through its DX (Digital Transformation) business, which contributes to the provision of prompt and
+advanced services to customers.  NEC BluStellar Business achieved faster growth and improved profitability than
+projected in the fiscal year ended March 31, 2025, supported in part by solid demand for DX.  This contributed
+significantly to the strong performance of the IT Services Business.
+Within the “Social Infrastructure Business”, in the aerospace and national security domain, the Company secured
+orders at a record high level during the fiscal year ended Ma
+
+--------------------------------------------------------------------------------
+
+Resultado 2
+Archivo: anual_nec2025.pdf
+Página: 3
+Contenido:
+NEC Group.  Furthermore, the Company is promoting the appointment of diverse human resources such as mid-
+career professionals, women, and non-Japanese.  The ratio of female and non-Japanese Directors and other
+officers was 15.8% as of April 2024 and 20% as of April 2025, achieving the target of 20% set in the “Mid-term
+Management Plan 2025”.
+The Company’s employee engagement score has improved from 25% in the fiscal year ended March 31, 2021 to
+42% through efforts to foster a culture where employees take pride in working at the Company and work
+proactively, as well as focusing on developing fair systems for evaluation, appointment, and compensation.
+Furthermore, in the “Mid-term Management Plan 2025”, the Company set a goal to increase the employee
+engagement score to 50%, which is
+
+--------------------------------------------------------------------------------
+
+Resultado 3
+Archivo: anual_nec2025.pdf
+Página: 3
+Contenido:
+Note: NEC Solution Innovators, Ltd., NEC Platforms, Ltd., NEC Communication Systems, Ltd., NEC
+Nexsolutions, Ltd. and NEC Business Intelligence, Ltd.
+Condensed Consolidated Statements of Profit or Loss
+The NEC Group recorded consolidated revenue of 3,423.4 billion JPY for the fiscal year ended March 31, 2025, a
+decrease of 53.8 billion JPY (-1.5%) year-on-year. This decrease was mainly due to the deconsolidation of Japan
+Aviation Electronics Industry, Limited., despite an increase in the revenues of the IT Services Business and the
+Social Infrastructure Business.
+Regarding profitability, operating profit increased by 68.5 billion JPY year-on-year, to an operating profit of 256.5
+billion JPY, due mainly to an increase in revenue in IT Services Business and Social Infrastructure Busines
+
+--------------------------------------------------------------------------------
+
+Resultado 4
+Archivo: Documentacion_marcos normativosTecnicos2.pdf
+Contenido:
+tion’s security controls or trained in one domain and then “fine-tuned” for another.
+Both AI and traditional software technologies and systems are subject to rapid innovation.
+Technology advances should be monitored and deployed to take advantage of those devel-
+opments and work towards a future of AI that is both trustworthy and responsible.
+Page 39
+
+--------------------------------------------------------------------------------
+
+(venv) PS C:\Users\w4yai\Desktop\ai-corporate-assistant> python backend/retrieval.py
+Escribí tu pregunta: What is Tesla's strategy for AI?
+
+Resultados encontrados:
+
+Resultado 1
+Archivo: documentacion_marcos normativosTecnicos1.pdf
+Página: 44
+Contenido:
+differential privacy, authentication, throttling).
+• Business rules that augment, limit or restrict AI system outputs within certain
+contexts
+• Utilizing domain expertise related to deployment context for continuous
+improvement and TEVV across the AI lifecycle.
+• Development and regular tracking of human-AI teaming configurations.
+
+--------------------------------------------------------------------------------
+
+Resultado 2
+Archivo: documentacion_marcos normativosTecnicos1.pdf
+Página: 72
+Contenido:
+limitations of the AI system?
+AI Transparency Resources
+• GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities.
+• Stakeholders in Explainable AI, Sep. 2018.
+• High-Level Expert Group on Artificial Intelligence set up by the European Commission,
+Ethics Guidelines for Trustworthy AI.
+References
+National Academies of Sciences, Engineering, and Medicine 2022. Fostering Responsible
+Computing Research: Foundations and Practices. Washington, DC: The National Academies
+Press.
+Abeba Birhane,  William S. Isaac, Vinodkumar Prabhakaran, Mark Diaz, Madeleine Clare
+Elish, Iason Gabriel and Shakir Mohamed. “Power to the People? Opportunities and
+Challenges for Participatory AI.” Equity and Access in Algorithms, Mechanisms, and
+Optimization (2022).
+Amit K. Cho
+
+--------------------------------------------------------------------------------
+
+Resultado 3
+Archivo: documentacion_marcos normativosTecnicos1.pdf
+Página: 43
+Contenido:
+41 of 142
+• Establishing processes for considering methods that are not automated; semi-
+automated; or other procedural alternatives for AI functions.
+• Enhance AI system transparency mechanisms for AI teams.
+• Enable exploration of AI system limitations by AI teams.
+• Identify, assess, and catalog past failed designs and negative impacts or outcomes to
+avoid known failure modes.
+• Identify resource allocation approaches for managing risks in systems:
+• deemed high-risk,
+• that self-update (adaptive, online, reinforcement self-supervised learning or
+similar),
+• trained without access to ground truth (unsupervised, semi-supervised, learning or
+similar),
+• with high uncertainty or where risk management is insufficient.
+• Regularly seek and integrate external expertise and pe
+
+--------------------------------------------------------------------------------
+
+Resultado 4
+Archivo: documentacion_marcos normativosTecnicos1.pdf
+Página: 120
+Contenido:
+AI system to external stakeholders, including end users, consumers, regulators, and
+individuals impacted by use of the AI system?
+AI Transparency Resources
+• GAO-21-519SP - Artificial Intelligence: An Accountability Framework for Federal
+Agencies & Other Entities.
+• Artificial Intelligence Ethics Framework For The Intelligence Community.
+• WEF Companion to the Model AI Governance Framework- WEF - Companion to the
+Model AI Governance Framework, 2020.
+References
+Chaofan Chen, Oscar Li, Chaofan Tao, Alina Jade Barnett, Jonathan Su, and Cynthia Rudin.
+"This Looks Like That: Deep Learning for Interpretable Image Recognition." arXiv preprint,
+submitted December 28, 2019.
+Cynthia Rudin. "Stop Explaining Black Box Machine Learning Models for High Stakes
+Decisions and Use Interpret
+
+--------------------------------------------------------------------------------
+
+(venv) PS C:\Users\w4yai\Desktop\ai-corporate-assistant> 

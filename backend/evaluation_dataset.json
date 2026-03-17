@@ -1,0 +1,42 @@
+[
+ {
+  "question": "What are NEC's main business segments?",
+  "expected_document": "anual_nec2025.pdf"
+ },
+ {
+  "question": "What was NEC's revenue in fiscal 2025?",
+  "expected_document": "anual_nec2025.pdf"
+ },
+ {
+  "question": "How does NEC use AI in digital transformation?",
+  "expected_document": "anual_nec2025.pdf"
+ },
+ {
+  "question": "What are the principles of GDPR?",
+  "expected_document": "regulaciones_compilance.pdf"
+ },
+ {
+  "question": "What is AI risk management?",
+  "expected_document": "Documentacion_marcos normativosTecnicos2.pdf"
+ },
+ {
+  "question": "What governance structures are suggested for AI systems?",
+  "expected_document": "documentacion_marcos normativosTecnicos1.pdf"
+ },
+ {
+  "question": "What operational procedures are described?",
+  "expected_document": "Procedimientos_operativos.pdf"
+ },
+ {
+  "question": "How should organizations manage AI risks?",
+  "expected_document": "Documentacion_marcos normativosTecnicos2.pdf"
+ },
+ {
+  "question": "What are the main growth areas for NEC?",
+  "expected_document": "anual_nec2025.pdf"
+ },
+ {
+  "question": "What is the goal of NEC BluStellar?",
+  "expected_document": "anual_nec2025.pdf"
+ }
+]
