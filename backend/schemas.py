@@ -18,7 +18,6 @@ class ChatRequest(BaseModel):
     session_id: str = None
 
     def model_post_init(self, __context):
-        # si no mandan session_id, generamos uno automáticamente
         if self.session_id is None:
             self.session_id = str(uuid.uuid4())
 
